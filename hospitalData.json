@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "SP Hospital",
+    "patientCount": 120,
+    "location": "Kerala"
+  },
+  {
+    "id": 2,
+    "name": " TVM Hospital",
+    "patientCount": 80,
+    "location": "TamilNadu"
+  },
+  {
+    "id": 3,
+    "name": " SNV Hospital",
+    "patientCount": 90,
+    "location": "Karnataka"
+  },
+  {
+    "id": 4,
+    "name": " City Hospital",
+    "patientCount": 100,
+    "location": "Karnataka"
+  }
+]
